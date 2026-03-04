@@ -12,6 +12,11 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=bhavishpoojary28&theme=shades-of-purple&hide_border=false)<br/>
 
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishpoojary28theme=react-dark&hide_border=true&area=true" />
+</p>
 
 
 
