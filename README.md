@@ -15,7 +15,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishpoojary28theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishpoojary28&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
