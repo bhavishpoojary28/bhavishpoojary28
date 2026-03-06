@@ -22,8 +22,8 @@
 ## 🏆 My Certificates
 
 <p align="center">
-<a href="certificate/Introduction to AI concepts.png">
-<img src="certificate/Introduction to AI concepts.png" width="300"/>
+<a href="certificate/Introduction to Al concepts.png">
+<img src="certificate/Introduction to Al concepts.png" width="300"/>
 </a>
 
 <a href="certificate/Describe cloud service types.png">
