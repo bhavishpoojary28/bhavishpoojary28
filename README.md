@@ -22,11 +22,45 @@
 ## 🏆 My Certificates
 
 <p align="center">
-<a href="certificate/Introduction to Al concepts.png">
-<img src="certificate/Introduction to Al concepts.png" width="100"/>
+
+<a href="certificate/Introduction to AI concepts.png">
+<img src="certificate/Introduction to AI concepts.png" width="120"/>
+</a>
+
+<a href="certificate/Describe cloud computing.png">
+<img src="certificate/Describe cloud computing.png" width="120"/>
 </a>
 
 <a href="certificate/Describe cloud service types.png">
-<img src="certificate/Describe cloud service types.png" width="100"/>
+<img src="certificate/Describe cloud service types.png" width="120"/>
 </a>
+
+<a href="certificate/Describe the benefits of using cloud services.png">
+<img src="certificate/Describe the benefits of using cloud services.png" width="120"/>
+</a>
+
+<a href="certificate/Develop an AI app with the Azure AI Foundry SDK.png">
+<img src="certificate/Develop an AI app with the Azure AI Foundry SDK.png" width="120"/>
+</a>
+
+<a href="certificate/Basics of Python.png">
+<img src="certificate/Basics of Python.png" width="120"/>
+</a>
+
+<a href="certificate/Cyber Security Foundation Certification.png">
+<img src="certificate/Cyber Security Foundation Certification.png" width="120"/>
+</a>
+
+<a href="certificate/Fundamentals of Cryptography.png">
+<img src="certificate/Fundamentals of Cryptography.png" width="120"/>
+</a>
+
+<a href="certificate/Fundamentals of Information Security.png">
+<img src="certificate/Fundamentals of Information Security.png" width="120"/>
+</a>
+
+<a href="certificate/Introduction to Cyber Security.png">
+<img src="certificate/Introduction to Cyber Security.png" width="120"/>
+</a>
+
 </p>
