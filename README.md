@@ -63,4 +63,15 @@
 <img src="certificate/Introduction to Cyber Security.png" width="120"/>
 </a>
 
+<a href="certificate/Foundations of Cybersecurity.png">
+<img src="certificate/Foundations of Cybersecurity.png" width="120"/>
+</a>
+
+<a href="certificate/Google AI Essentials.png">
+<img src="certificate/Google AI Essentials.png" width="120"/>
+</a>
+
+<a href="certificate/Play It Safe Manage Security Risks.png">
+<img src="certificate/Play It Safe Manage Security Risks.png" width="120"/>
+</a>
 </p>
