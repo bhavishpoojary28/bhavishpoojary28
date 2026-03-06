@@ -23,10 +23,10 @@
 
 <p align="center">
 <a href="certificate/Introduction to Al concepts.png">
-<img src="certificate/Introduction to Al concepts.png" width="300"/>
+<img src="certificate/Introduction to Al concepts.png" width="100"/>
 </a>
 
 <a href="certificate/Describe cloud service types.png">
-<img src="certificate/Describe cloud service types.png" width="300"/>
+<img src="certificate/Describe cloud service types.png" width="100"/>
 </a>
 </p>
