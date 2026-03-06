@@ -23,8 +23,8 @@
 
 <p align="center">
 
-<a href="certificate/Introduction to AI concepts.png">
-<img src="certificate/Introduction to AI concepts.png" width="120"/>
+<a href="certificate/Introduction to Al concepts.png">
+<img src="certificate/Introduction to Al concepts.png" width="120"/>
 </a>
 
 <a href="certificate/Describe cloud computing.png">
@@ -39,8 +39,8 @@
 <img src="certificate/Describe the benefits of using cloud services.png" width="120"/>
 </a>
 
-<a href="certificate/Develop an AI app with the Azure AI Foundry SDK.png">
-<img src="certificate/Develop an AI app with the Azure AI Foundry SDK.png" width="120"/>
+<a href="certificate/Develop an Al app with the Azure Al Foundry SDK.png">
+<img src="certificate/Develop an Al app with the Azure Al Foundry SDK.png" width="120"/>
 </a>
 
 <a href="certificate/Basics of Python.png">
