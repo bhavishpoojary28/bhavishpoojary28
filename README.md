@@ -22,7 +22,7 @@
 ## 🏆 My Certificates
 
 <p align="center">
-  <img src="certificates/python.png" width="300"/>
+  <img src="certificates/Introduction to Al concepts.png" width="300"/>
   <img src="certificates/java.png" width="300"/>
   <img src="certificates/aws.png" width="300"/>
 </p>
