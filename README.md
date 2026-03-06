@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="certificates/Introduction to Al concepts.png" width="300"/>
-  <img src="certificates/java.png" width="300"/>
-  <img src="certificates/aws.png" width="300"/>
+  <img src="Describe cloud service types.png" width="300"/>
+  <img src="Describe the benefits of using cloud services.png" width="300"/>
 </p>
 
