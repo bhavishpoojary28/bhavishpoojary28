@@ -22,8 +22,11 @@
 ## 🏆 My Certificates
 
 <p align="center">
-  <img src="certificates/Introduction to Al concepts.png" width="300"/>
-  <img src="Describe cloud service types.png" width="300"/>
-  <img src="Describe the benefits of using cloud services.png" width="300"/>
-</p>
+<a href="certificate/Introduction to AI concepts.png.pdf">
+<img src="certificate/Introduction to AI concepts.png.pdf" width="300"/>
+</a>
 
+<a href="certificate/Describe cloud service types.png.pdf">
+<img src="certificate/Describe cloud service types.png.pdf" width="300"/>
+</a>
+</p>
